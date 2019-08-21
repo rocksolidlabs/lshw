@@ -1,0 +1,2 @@
+# lshw
+Go lshw wrapper
